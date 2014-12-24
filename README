@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5075
+
+Functions to compile/link and run a single c/cpp/java/..etc
+file based programs. It's irreplaceable for small tests or 
+experiments.
+
+For the most recent version check:
+https://github.com/vishap/vim_scripts/blob/master/plugin/cf5-compile.vim
+
